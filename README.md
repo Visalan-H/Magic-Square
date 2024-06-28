@@ -7,8 +7,8 @@ Just enter your birthday, and let the magic happen!
 
 ## How it Works
 
-Click here: 
-<a href="https://visalan-h.github.io/Magic-Square/main.html" target="_blank">Magic Square Website</a>
+Click here: [Magic Square Website](https://visalan-h.github.io/Magic-Square/main.html)
+
 Simply enter your birthdate, and our magical algorithm will create a unique magic square for you.
 It's fun, easy, and mystical!
 
