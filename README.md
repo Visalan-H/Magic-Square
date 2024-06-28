@@ -21,15 +21,17 @@ It's fun, easy, and mystical!
 
 1. **Initial Screen**:
    - Visit the homepage and Enter your Date of Birth.
-   ![Initial Screen](#)
+   ![image](https://github.com/Visalan-H/Magic-Square/assets/152077751/13feefea-abff-400e-b8c3-11f1d0728a2c)
+
 
 2. **Enter Your Birthday**:
-   - Input your birthdate and click the "Generate Magic Square" button.
-   ![Enter Birthday](#)
+   - Input your birthdate and click the "Generate" button.
+   ![image](https://github.com/Visalan-H/Magic-Square/assets/152077751/92d0d0d4-1b0e-4e5b-bab7-e4b2e134d6ff)
+
 
 3. **Your Magic Square**:
    - See your unique magic square generated instantly based on your birthday.
-   ![Magic Square Result](#)
+   ![image](https://github.com/Visalan-H/Magic-Square/assets/152077751/2d06ba60-4996-4bb0-93e3-a6b03cddbf27)
 
 ---
 
