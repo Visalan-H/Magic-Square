@@ -5,6 +5,9 @@ Welcome to the Magic Square Website repository! 🎉
 This website lets you generate a personalized magic square based on your birthday.
 Just enter your birthday, and let the magic happen!
 
+## What is a Magic Square?
+Visit this Youtube video :[Youtube](https://youtu.be/7wQ9uqvde3I?si=eaRF0DxiMVURzKwy)
+
 ## How it Works
 
 Click here: [Magic Square Website](https://visalan-h.github.io/Magic-Square/main.html)
