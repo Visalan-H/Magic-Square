@@ -139,7 +139,21 @@ h2{
     margin-left: 91%;
     font-size: 32px;
 }
+#magicnumber{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 120px;
+    font-size: 32px;
+    visibility: hidden;
+}
 #inst{
     margin-top: 300px; 
     font-size: 20px;
+}
+#inst2{
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 1000px;
+    font-size: 28px;
+    visibility: hidden;
 }
