@@ -11,6 +11,7 @@ Visit this Youtube video :[Youtube](https://youtu.be/7wQ9uqvde3I?si=eaRF0DxiMVUR
 ## How it Works
 
 Click here: [Magic Square Website](https://visalan-h.github.io/Magic-Square/main.html)
+(open in new tab)
 
 Simply enter your birthdate, and our magical algorithm will create a unique magic square for you.
 It's fun, easy, and mystical!
